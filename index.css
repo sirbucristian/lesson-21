@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    color: white;
+}
+#id{
+    text-align: center;
+}
+#first {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+}
+#second{
+    color:white;
+    background-color: green;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+}
+#third {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+}
+
+#p{
+    font-style: italic;
+    font-size: 1.5em;
+    color: purple;
+}
+h1{
+    font-style: italic;
+    color: red;
+}
+
+#four {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+}
+#five{
+    color:white;
+    background-color: green;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+}
+#six {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+}
+h3{
+    color: yellow;
+}
+#pdel{
+    font-style: italic;
+    font-size: 1.5em;
+}
+#button{
+    text-align: center;
+}
